@@ -34,16 +34,16 @@ public class CscExample
  
 	 public void addQuectionNo(CscExample qu)
 	 {
-		 
+		System.out.print(); 
 	 }
 	 public void removeQuection(int quId)
 	 {
 	 
- 
+        System.out.print();
 	 }
 	 public void editQuction(int quId)
 	 {
-		 
+		System.out.print(); 
 	 }
 }
 
